@@ -2,48 +2,59 @@
 templateKey: index-page
 title: West Bridgford Advice Centre
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience!
-subheading: Support sustainable farming while enjoying a cup
+heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982 1475
+subheading: Free and confidential advice at St.Giles Church Hall, Stratford
+  Road, West Bridgford, Nottingham, NG2 6AZ
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Here to help you
+  description: |
+    We offer advice on •	Benefits
+    •	Tax
+    •	Probate
+    •	Housing
+    •	Consumer
+    •	Employment
+    •	Relationship Breakdown
+    •	Form Filling
+description: "The West Bridgford Advice Centre is run by volunteers.  Our
+  services are free of charge.  We manage to sort out most of our clients'
+  problems ourselves but if we can't, we know where to send you for the help you
+  need.       "
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >+
+        
+        During the COVID-19 pandemic we are providing face to face advice by appointment only at St Giles Church Hall.  To make an appointment, telephone: 0115 982 1475 (during opening hours or leave a message at other times) or email: westbridgfordadvicecentre@gmail.com 
+
+
+
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        During these Covid times we understand that not everyone wants a face to
+        face appointment.  We can also arrange for an adviser to ring you on a
+        Wednesday morning.   Please telephone: 0115 982 1475 (during opening
+        hours or leave a message at other times) or email:
+        westbridgfordadvicecentre@gmail.com 
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >+
+        Before an appointment, please make sure you bring the following:  
+            all relevant information relating to your query; 
+            letters, receipts, paperwork, copies of forms, dates of phone calls.  If your appointment is for debt advice, please bring: 
+            bank statements and all income information;
+            ALL debt statements and letters (e.g. credit cards, payday loans);
+            outgoings information – e.g. utility bills and mortgage or rents statements;
+            payslips;
+            council tax forms;
+            proof of identity.
+
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >+
+        The safety of our volunteers and clients is very important.  Please do
+        not attend the Advice Centre if you are feeling unwell and / or have any
+        of the following symptoms: a high temperature, a new and continuous
+        cough, a loss or change to your sense of smell or taste.
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -51,12 +62,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Useful information
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Please visit other pages on our website for further information on a variety
+    of subjects including benefits payments
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -65,5 +74,5 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/chemex.jpg
 ---
