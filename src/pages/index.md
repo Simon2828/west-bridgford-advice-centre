@@ -40,13 +40,7 @@ intro:
       text: >+
         Before an appointment, please make sure you bring the following:  
             all relevant information relating to your query; 
-            letters, receipts, paperwork, copies of forms, dates of phone calls.  If your appointment is for debt advice, please bring: 
-            bank statements and all income information;
-            ALL debt statements and letters (e.g. credit cards, payday loans);
-            outgoings information – e.g. utility bills and mortgage or rents statements;
-            payslips;
-            council tax forms;
-            proof of identity.
+            letters, receipts, paperwork, copies of forms, dates of phone calls. Other pages on our website have links to information on a variety of subjects including benefits payments.  Look at this link for government advice  https://www.gov.uk/universal-credit 
 
     - image: /img/meeting-space.png
       text: >+
@@ -62,10 +56,11 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Useful information
+  heading: Acknowledgement
   description: >
-    Please visit other pages on our website for further information on a variety
-    of subjects including benefits payments
+    The West Bridgford Centre is partly funded by Nottinghamshire County Council
+    and also receives occasional charitable donations.  We gratefully
+    acknowledge funding received from our donors.  
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
