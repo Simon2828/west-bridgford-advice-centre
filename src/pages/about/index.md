@@ -20,6 +20,6 @@ and this **MUST** be done online, so you will need to create an account on the U
 
 **[Look at this Government link to start you off](https://www.gov.uk/universal-credit)**
 
-Self service computers are available for use in the West Bridgford Library which is open from 9am to 5pm Monday to Friday and on Saturdays from 9am to 1pm. 
+Self service computers are available for use in the West Bridgford Library.  The library's opening hours can be found [here.](https://www.inspireculture.org.uk/reading-information/find-a-library/west-bridgford-library/) 
 
 **NOTE:** You may be able to claim new style Jobseeker’s Allowance (JSA) OR new style Employment and Support Allowance (ESA), with or instead of, Universal Credit, depending on your National Insurance record.
