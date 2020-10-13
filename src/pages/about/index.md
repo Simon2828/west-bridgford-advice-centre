@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: Useful links
+title: Useful information
 ---
 ### This page can be populated with summary information and useful links
 
