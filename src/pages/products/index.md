@@ -2,7 +2,7 @@
 heading: Mission Statement
 path: /products
 templateKey: product-page
-title: About
+title: Useful Information
 image: /img/jumbotron.jpg
 description: XXXXXXXXXXX
 intro:
