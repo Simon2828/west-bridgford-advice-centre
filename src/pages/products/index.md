@@ -41,6 +41,6 @@ testimonials:
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Contact information
-  description: Telephone or email
+  description: 0115 982 1475
   plans: []
 ---
