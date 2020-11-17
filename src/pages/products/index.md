@@ -58,7 +58,7 @@ intro:
 
     The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
 main:
-  heading: History
+  heading: History and testimonials
   description: >
     The West Bridgford Advice Centre has provided a valuable and accessible
     source of support for local people through its Wednesday morning ‘open door’
