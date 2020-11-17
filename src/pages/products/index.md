@@ -26,18 +26,13 @@ intro:
 
         The functions of the Management Committee are to
 
-        · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers
-
-        · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
+        · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
     - image: /img/top-right.jpg
       text: >
         FUNDING
 
 
-        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.
-
-
-        The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
+        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
     - image: /img/bottom-left.jpg
       text: >
         CONFIDENTIALITY AND DATA PROTECTION POLICY
@@ -61,8 +56,18 @@ intro:
 
     The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
 main:
-  heading: --oOo--
-  description: "\n"
+  heading: "The West Bridgford Advice Centre's aim is: To provide quality
+    information and other advice services for the benefit of the residents of
+    West Bridgford and surrounding areas. Clients with queries which are outside
+    the remit and competences of the Centre’s volunteers are directed to the
+    appropriate professional or other specialist services."
+  description: >
+    The West Bridgford Advice Centre has provided a valuable and accessible
+    source of support for local people through its Wednesday morning ‘open door’
+    service since 1980.
+
+
+    The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/top-right.jpg
