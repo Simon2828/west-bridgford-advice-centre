@@ -63,8 +63,8 @@ main:
     image: /img/vase.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/top-left.jpg
   image3:
     alt: Coffee beans
-    image: /img/chemex.jpg
+    image: /img/top-right.jpg
 ---
