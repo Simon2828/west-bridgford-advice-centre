@@ -34,20 +34,16 @@ intro:
 
         the West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
     - image: /img/bottom-left.jpg
-      text: >
-        CONFIDENTIALITY AND DATA PROTECTION POLICY: 
+      text: >+
+        CONFIDENTIALITY AND DATA PROTECTION POLICY 
 
 
-        the Centre is committed to providing a confidential service. No information is given directly or indirectly to a third party without the service user’s prior consent. The Centre will breach confidentiality only where there is a risk to life or in instances where the Centre would break the law by maintaining confidentiality. The Management Committee is consulted in such cases.
+        The Centre is committed to providing a confidential service. No information is given directly or indirectly to a third party without the service user’s prior consent. The Centre will breach confidentiality only where there is a risk to life or in instances where the Centre would break the law by maintaining confidentiality. The Management Committee is consulted in such cases.
 
-
-        All Centre volunteers are required to sign a document to confirm that they will uphold this confidentiality policy. The Centre’s Data Privacy Statement in full is available on request by emailing westbridgfordadvicecentre@gmail.com
-
-
-        Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018. 
+         
     - image: /img/bottom-right.jpg
       text: >
-        CONFIDENTIALITY AND DATA PROTECTION POLICY: all Centre volunteers are
+        CONFIDENTIALITY AND DATA PROTECTION POLICY  All Centre volunteers are
         required to sign a document to confirm that they will uphold this
         confidentiality policy. The Centre’s Data Privacy Statement in full is
         available on request by emailing westbridgfordadvicecentre@gmail.com
