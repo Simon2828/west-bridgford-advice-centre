@@ -16,13 +16,7 @@ intro:
         MANAGEMENT
 
 
-        The Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles:
-
-        · Administrator
-
-        · Secretary
-
-        · Treasurer
+        The Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles: · Administrator · Secretary · Treasurer
 
         · Resources Manager
 
@@ -32,17 +26,9 @@ intro:
 
         The functions of the Management Committee are to
 
-        · Ensure the smooth running of the Centre
+        · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers
 
-        · Appoint replacement or additional volunteers
-
-        · Ensure that finances are correctly administered
-
-        · Identify and provide for the training needs of volunteers
-
-        · Ensure the provision of accurate and up to date information/advice
-
-        · Ensure that the Centre’s policies are carried out.
+        · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
     - image: /img/top-right.jpg
       text: >
         FUNDING
