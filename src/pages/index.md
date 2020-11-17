@@ -31,16 +31,16 @@ intro:
 
     - image: /img/top-right.jpg
       text: >
-        During these Covid times we understand that not everyone wants a face to
-        face appointment.  We can also arrange for an adviser to ring you on a
-        Wednesday morning.   Please telephone: 0115 982 1475 (during opening
-        hours or leave a message at other times) or email:
+        We understand that not everyone wants a face to face appointment.  We
+        can also arrange for an adviser to ring you on a Wednesday
+        morning.   Please telephone: 0115 982 1475 (during opening hours or
+        leave a message at other times) or email:
         westbridgfordadvicecentre@gmail.com 
     - image: /img/bottom-left.jpg
       text: >+
         Before an appointment, please make sure you bring the following:  
             all relevant information relating to your query; 
-            letters, receipts, paperwork, copies of forms, dates of phone calls. Other pages on our website have links to information on a variety of subjects including benefits payments.  Look at this link for government advice  https://www.gov.uk/universal-credit 
+            letters, receipts, paperwork, copies of forms, dates of phone calls. The Useful Links page of our website has links to information on a variety of subjects including benefits payments.
 
     - image: /img/bottom-right.jpg
       text: >+
