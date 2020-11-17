@@ -83,8 +83,8 @@ testimonials:
       with them.
 full_image: /img/vase.jpg
 pricing:
-  heading: Contact telephone number
-  description: 0115 982 1475
+  heading: Contact telephone number 0115 982 1475
+  description: westbridgfordadvicecentre@gmail.com
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
