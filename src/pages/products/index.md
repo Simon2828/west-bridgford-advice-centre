@@ -4,11 +4,11 @@ path: /products
 templateKey: product-page
 title: About
 image: /img/home-page-header.jpg
-description: "The West Bridgford Advice Centre's aim is: To provide quality
+description: The West Bridgford Advice Centre's aim is to provide quality
   information and other advice services for the benefit of the residents of West
   Bridgford and surrounding areas. Clients with queries which are outside the
   remit and competences of the Centre’s volunteers are directed to the
-  appropriate professional or other specialist services."
+  appropriate professional or other specialist services.
 intro:
   blurbs:
     - image: /img/top-left.jpg
