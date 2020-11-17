@@ -83,7 +83,7 @@ testimonials:
       with them.
 full_image: /img/vase.jpg
 pricing:
-  heading: Contact information
+  heading: Contact telephone number
   description: 0115 982 1475
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
