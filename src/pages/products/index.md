@@ -13,7 +13,7 @@ intro:
   blurbs:
     - image: /img/top-left.jpg
       text: >
-        MANAGEMENT
+        MANAGEMENT: 
 
 
         The Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles: · Administrator · Secretary · Treasurer
@@ -29,16 +29,16 @@ intro:
         · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
     - image: /img/top-right.jpg
       text: >
-        FUNDING
+        FUNDING: 
 
 
-        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
+        the West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
     - image: /img/bottom-left.jpg
       text: >
-        CONFIDENTIALITY AND DATA PROTECTION POLICY
+        CONFIDENTIALITY AND DATA PROTECTION POLICY: 
 
 
-        The Centre is committed to providing a confidential service. No information is given directly or indirectly to a third party without the service user’s prior consent. The Centre will breach confidentiality only where there is a risk to life or in instances where the Centre would break the law by maintaining confidentiality. The Management Committee is consulted in such cases.
+        the Centre is committed to providing a confidential service. No information is given directly or indirectly to a third party without the service user’s prior consent. The Centre will breach confidentiality only where there is a risk to life or in instances where the Centre would break the law by maintaining confidentiality. The Management Committee is consulted in such cases.
 
 
         All Centre volunteers are required to sign a document to confirm that they will uphold this confidentiality policy. The Centre’s Data Privacy Statement in full is available on request by emailing westbridgfordadvicecentre@gmail.com
@@ -46,7 +46,13 @@ intro:
 
         Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018. 
     - image: /img/bottom-right.jpg
-      text: "\n"
+      text: >
+        HISTORY: the West Bridgford Advice Centre has provided a valuable and
+        accessible source of support for local people through its Wednesday
+        morning ‘open door’ service since 1980.
+
+
+        The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
   heading: Organisation
   description: >
     The West Bridgford Advice Centre has provided a valuable and accessible
