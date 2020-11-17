@@ -16,7 +16,7 @@ intro:
         MANAGEMENT: 
 
 
-        The Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles: · Administrator · Secretary · Treasurer
+        the Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles: · Administrator · Secretary · Treasurer
 
         · Resources Manager.
 
