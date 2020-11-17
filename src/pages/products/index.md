@@ -29,10 +29,9 @@ intro:
         · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
     - image: /img/top-right.jpg
       text: >
-        FUNDING: 
+        FUNDING                                                                                    
 
-
-        the West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
+        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre also gratefully acknowledges the support of Rothera Sharp for the contribution it makes to providing legal advice, and St. Giles Church for providing accommodation and office support.
     - image: /img/bottom-left.jpg
       text: >+
         CONFIDENTIALITY AND DATA PROTECTION POLICY 
