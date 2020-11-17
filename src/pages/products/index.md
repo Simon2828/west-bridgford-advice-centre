@@ -42,10 +42,9 @@ intro:
          
     - image: /img/bottom-right.jpg
       text: >
-        CONFIDENTIALITY AND DATA PROTECTION POLICY  All Centre volunteers are
-        required to sign a document to confirm that they will uphold this
-        confidentiality policy. The Centre’s Data Privacy Statement in full is
-        available on request by emailing westbridgfordadvicecentre@gmail.com
+        CONFIDENTIALITY AND DATA PROTECTION POLICY  The Centre’s Data Privacy
+        Statement in full is available on request by emailing
+        westbridgfordadvicecentre@gmail.com
 
 
         Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018. 
