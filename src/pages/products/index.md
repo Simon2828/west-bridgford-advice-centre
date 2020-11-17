@@ -47,12 +47,13 @@ intro:
         Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018. 
     - image: /img/bottom-right.jpg
       text: >
-        HISTORY: the West Bridgford Advice Centre has provided a valuable and
-        accessible source of support for local people through its Wednesday
-        morning ‘open door’ service since 1980.
+        CONFIDENTIALITY AND DATA PROTECTION POLICY: all Centre volunteers are
+        required to sign a document to confirm that they will uphold this
+        confidentiality policy. The Centre’s Data Privacy Statement in full is
+        available on request by emailing westbridgfordadvicecentre@gmail.com
 
 
-        The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
+        Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018. 
   heading: Organisation
   description: >
     The West Bridgford Advice Centre has provided a valuable and accessible
@@ -62,11 +63,7 @@ intro:
 
     The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
 main:
-  heading: "The West Bridgford Advice Centre's aim is: To provide quality
-    information and other advice services for the benefit of the residents of
-    West Bridgford and surrounding areas. Clients with queries which are outside
-    the remit and competences of the Centre’s volunteers are directed to the
-    appropriate professional or other specialist services."
+  heading: History
   description: >
     The West Bridgford Advice Centre has provided a valuable and accessible
     source of support for local people through its Wednesday morning ‘open door’
