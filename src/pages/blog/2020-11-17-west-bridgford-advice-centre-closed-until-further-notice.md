@@ -9,4 +9,4 @@ featuredimage: /img/home-page-header.jpg
 tags:
   - West Bridgford Advice Centre
 ---
-xx
+We hope to be back soon.
