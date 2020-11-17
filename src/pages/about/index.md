@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Useful information
 ---
-### This page can be populated with summary information and useful links
+### BENEFITS
 
 Benefits are changing for most people at the moment. If you are worried regarding claiming Universal Credit, PIP, Attendance Allowance and Pension Credit we can help you. 
 
