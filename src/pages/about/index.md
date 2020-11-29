@@ -2,7 +2,7 @@
 heading: Aim
 path: /about
 templateKey: about-page
-title: About
+title: About West Bridgford Advice Centre
 image: /img/home-page-header.jpg
 description: The West Bridgford Advice Centre's aim is to provide quality
   information and other advice services for the benefit of the residents of West
@@ -81,23 +81,4 @@ testimonials:
     quote: Very friendly and helpful advisers.  Don't hesitate to get in contact
       with them.
 full_image: /img/vase.jpg
-pricing:
-  heading: Contact telephone number 0115 982 1475
-  description: westbridgfordadvicecentre@gmail.com
-  plans:
-    - description: Work alongside experienced volunteers
-      items:
-        - and develop your skills
-      plan: Can
-      price: We
-    - description: Make new friends
-      items:
-        - and help your community
-      plan: You
-      price: need
-    - description: "Spend time that makes a "
-      items:
-        - difference!
-      plan: help?
-      price: volunteers!
 ---
