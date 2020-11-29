@@ -120,8 +120,20 @@ collections:
                   },
                 ],
             }
-      - file: "src/pages/about/index.md"
+      - file: "src/pages/info/index.md"
         label: "Useful Information"
+        name: "info"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "info-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/about/index.md"
+        label: "About Page"
         name: "about"
         fields:
           - {
@@ -129,18 +141,6 @@ collections:
               name: "templateKey",
               widget: "hidden",
               default: "about-page",
-            }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/products/index.md"
-        label: "About Page"
-        name: "products"
-        fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "product-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
