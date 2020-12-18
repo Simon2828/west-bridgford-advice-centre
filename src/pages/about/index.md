@@ -4,11 +4,11 @@ path: /about
 templateKey: about-page
 title: About West Bridgford Advice Centre
 image: /img/home-page-header.jpg
-description: "The West Bridgford Advice Centre's aim is: To provide quality
-  information and other advice services for the benefit of the residents of West
-  Bridgford and surrounding areas. Clients with queries which are outside the
-  remit and competences of the Centre’s volunteers are directed to the
-  appropriate professional or other specialist services."
+description: "The Centre's aim is: To provide quality information and other
+  advice services for the benefit of the residents of West Bridgford and
+  surrounding areas. Clients with queries which are outside the remit and
+  competences of the Centre’s volunteers are directed to the appropriate
+  professional or other specialist services."
 intro:
   blurbs:
     - image: /img/top-left.jpg
@@ -34,7 +34,7 @@ intro:
         The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre gratefully acknowledges the support of Rothera Sharp in providing legal advice, and St. Giles Church in providing accommodation and office support.
 
 
-        The Advice Centre is a member of Advice UK, a registered charity supporting the UK's larges network of independent advice services.
+        The Advice Centre is a member of Advice UK, a registered charity supporting the UK's largest network of independent advice services.
     - image: /img/bottom-left.jpg
       text: >+
         CONFIDENTIALITY AND DATA PROTECTION POLICY
