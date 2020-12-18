@@ -71,10 +71,12 @@ main:
     alt: Coffee beans
     image: /img/mid-left.jpg
 testimonials:
-  - author: Sarah
-    quote: I received very useful advice.  It really helped me take the next steps.
-  - author: Phil
-    quote: Very friendly and helpful advisers.  Don't hesitate to get in contact
-      with them.
+  - author: Excellent service. Very friendly and helpful.
+    quote: Gave very useful information and contact numbers. A light at the end of
+      the tunnel. Again, thank you.
+  - author: A valuable source of help to so many people. We would be lost without it.
+    quote: I just want to say how brilliant the service has been. I cannot fault the
+      fantastic helpful and informative volunteers that have helped me. Without
+      their help I would not be able to complete the forms.
 full_image: /img/vase.jpg
 ---
