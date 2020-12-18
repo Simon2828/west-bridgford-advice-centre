@@ -1,7 +1,7 @@
 ---
 templateKey: info-page
 path: /info
-title: USEFUL INFORMATION and LINKS
+title: USEFUL INFORMATION AND LINKS
 ---
 **Universal Credit: <https://www.gov.uk/universal-credit>**
 
