@@ -1,10 +1,8 @@
 ---
 templateKey: info-page
 path: /info
-title: Useful information
+title: USEFUL INFORMATION and LINKS
 ---
-### BENEFITS
-
 **Universal Credit: <https://www.gov.uk/universal-credit>**
 
 **NOTE**: NEW benefit claimants in the Nottinghamshire must now claim Universal Credit for what was :-
@@ -12,8 +10,8 @@ title: Useful information
 * Child Tax Credit
 * Housing Benefit
 * Income Support
-* income-based Jobseeker’s Allowance (JSA)
-* income-related Employment and Support Allowance (ESA)
+* Income-based Jobseeker’s Allowance (JSA)
+* Income-related Employment and Support Allowance (ESA)
 * Working Tax Credit
 
 and this **MUST** be done online, so you will need to create an account on the Universal Credit system and have an email account of your own already set up.  We can help with this.
