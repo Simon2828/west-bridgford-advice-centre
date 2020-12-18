@@ -68,7 +68,7 @@ main:
     image: /img/top-left.jpg
   image3:
     alt: Coffee beans
-    image: /img/mid-left.jpg
+    image: /img/wbac-logo.png
 testimonials:
   - author: Excellent service. Very friendly and helpful.
     quote: Gave very useful information and contact numbers. A light at the end of
