@@ -59,8 +59,7 @@ main:
   heading: History and Testimonials
   description: The West Bridgford Advice Centre has provided a valuable and
     accessible source of support for local people through its Wednesday morning
-    ‘open door’ service since 1992 and is run by volunteers in accordance with
-    its Constitution.
+    ‘open door’ service since 1992.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/top-right.jpg
