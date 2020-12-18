@@ -3,24 +3,31 @@ templateKey: info-page
 path: /info
 title: Useful information
 ---
-
 ### BENEFITS
 
-Benefits are changing for most people at the moment. If you are worried regarding claiming Universal Credit, PIP, Attendance Allowance and Pension Credit we can help you.
+**Universal Credit: <https://www.gov.uk/universal-credit>**
 
-**NOTE**: NEW benefit claimants in the Nottinghamshire & Leicestershire area must now claim Universal Credit for what was :-
+**NOTE**: NEW benefit claimants in the Nottinghamshire must now claim Universal Credit for what was :-
 
-- Child Tax Credit
-- Housing Benefit
-- Income Support
-- income-based Jobseeker’s Allowance (JSA)
-- income-related Employment and Support Allowance (ESA)
-- Working Tax Credit
+* Child Tax Credit
+* Housing Benefit
+* Income Support
+* income-based Jobseeker’s Allowance (JSA)
+* income-related Employment and Support Allowance (ESA)
+* Working Tax Credit
 
-and this **MUST** be done online, so you will need to create an account on the Universal Credit system and have an email account of your own already set up.
-
-**[Look at this Government link to start you off](https://www.gov.uk/universal-credit)**
+and this **MUST** be done online, so you will need to create an account on the Universal Credit system and have an email account of your own already set up.  We can help with this.
 
 Self service computers are available for use in the West Bridgford Library. The library's opening hours can be found [here.](https://www.inspireculture.org.uk/reading-information/find-a-library/west-bridgford-library/)
 
-**NOTE:** You may be able to claim new style Jobseeker’s Allowance (JSA) OR new style Employment and Support Allowance (ESA), with or instead of, Universal Credit, depending on your National Insurance record.
+Gov.UK: the best place to find government services and information <https://www.gov.uk/>
+
+PIP: <https://www.gov.uk/pension-credit>
+
+Concessionary travel passes / Blue Badges: <https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme>
+
+Turn2us Benefit Calculator: <https://benefits-calculator.turn2us.org.uk/AboutYou>
+
+HMRC tax: <https://www.gov.uk/contact-hmrc>
+
+CAB: <https://www.citizensadvice.org.uk/> have downloadable leaflets on the following subjects:
