@@ -5,8 +5,8 @@ image: /img/home-page-header.jpg
 heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982
   1475   Email westbridgfordadvicecentre@gmail.com
 subheading: Find us at St.Giles Church Hall, Stratford Road, West Bridgford,
-  Nottingham NG2 6AZ.  Please note there is restricted parking on Stratford Road
-  and check the signs before parking.
+  Nottingham NG2 6AZ.  There is restricted parking on Stratford Road so please
+  check the signs before parking.
 mainpitch:
   title: Here to help you
   description: |+
@@ -27,11 +27,11 @@ mainpitch:
 
 description: "The Church Hall is centrally situated on Stratford Road
   immediately adjoining the rear of St. Giles Church and just 200 metres from
-  the Co-op store, Bridgford Road.  Please note, there is restricted parking on
-  Stratford Road.  Please check signs before parking.  The West Bridgford Advice
-  Centre is run by volunteers.  Our services are free of charge.  We manage to
-  sort out most of our clients' problems ourselves but if we can't, we know
-  where to send you for the help you need.       "
+  the Co-op store, Bridgford Road.  There is restricted parking on Stratford
+  Road so please check signs before parking.  The West Bridgford Advice Centre
+  is run by volunteers.  Our services are free of charge.  We manage to sort out
+  most of our clients' problems ourselves but if we can't, we know where to send
+  you for the help you need.       "
 intro:
   blurbs:
     - image: /img/top-left.jpg
