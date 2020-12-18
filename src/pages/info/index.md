@@ -5,7 +5,7 @@ title: USEFUL INFORMATION and LINKS
 ---
 **Universal Credit: <https://www.gov.uk/universal-credit>**
 
-**NOTE**: NEW benefit claimants in the Nottinghamshire must now claim Universal Credit for what was :-
+**NOTE**: NEW benefit claimants in Nottinghamshire must now claim Universal Credit for what was :-
 
 * Child Tax Credit
 * Housing Benefit
@@ -22,7 +22,11 @@ Gov.UK: the best place to find government services and information <https://www.
 
 PIP: <https://www.gov.uk/pension-credit>
 
-Concessionary travel passes / Blue Badges: <https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme>
+Attendance Allowance: <https://www.gov.uk/attendance-allowance>
+
+Pension Credit: <https://www.gov.uk/pension-credit>
+
+Concessionary travel passes / Blue Badges: [](https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme)<https://www.nottinghamshire.gov.uk/transport/public-transport/concessionary-travel>
 
 Turn2us Benefit Calculator: <https://benefits-calculator.turn2us.org.uk/AboutYou>
 
