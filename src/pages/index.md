@@ -2,24 +2,36 @@
 templateKey: index-page
 title: West Bridgford Advice Centre  PLEASE NOTE WE ARE CLOSED UNTIL FURTHER NOTICE
 image: /img/home-page-header.jpg
-heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982 1475
-subheading: Free and confidential advice at St.Giles Church Hall, Stratford
-  Road, West Bridgford, Nottingham NG2 6AZ
+heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982
+  1475   Email westbridgfordadvicecentre@gmail.com
+subheading: Find us at St.Giles Church Hall, Stratford Road, West Bridgford,
+  Nottingham NG2 6AZ.  Please note there is restricted parking on Stratford Road
+  and check the signs before parking.
 mainpitch:
   title: Here to help you
-  description: |
-    We offer advice on •	Benefits
+  description: |+
+    We provide confidential, free and unbiased advice on: •	Benefits
     •	Tax
-    •	Probate
-    •	Housing
+    •	Education
+    •	Housing and accommodation
     •	Consumer
     •	Employment
-    •	Relationship Breakdown
-    •	Form Filling
-description: "The West Bridgford Advice Centre is run by volunteers.  Our
-  services are free of charge.  We manage to sort out most of our clients'
-  problems ourselves but if we can't, we know where to send you for the help you
-  need.       "
+    •	Family issues
+    •	Form filling
+    •	Legal issues
+    •	Health and disability.
+    We also signpost for
+    •	Immigration issues
+    •	Debt
+    •	Financial advice  
+
+description: "The Church Hall is centrally situated on Stratford Road
+  immediately adjoining the rear of St. Giles Church and just 200 metres from
+  the Co-op store, Bridgford Road.  Please note, there is restricted parking on
+  Stratford Road.  Please check signs before parking.  The West Bridgford Advice
+  Centre is run by volunteers.  Our services are free of charge.  We manage to
+  sort out most of our clients' problems ourselves but if we can't, we know
+  where to send you for the help you need.       "
 intro:
   blurbs:
     - image: /img/top-left.jpg
@@ -38,9 +50,9 @@ intro:
         westbridgfordadvicecentre@gmail.com 
     - image: /img/bottom-left.jpg
       text: >+
-        Before an appointment, please make sure you bring the following:  
+        When visiting the centre, please try to bring the following:
             all relevant information relating to your query; 
-            letters, receipts, paperwork, copies of forms, dates of phone calls. The Useful Links page of our website has links to information on a variety of subjects including benefits payments.
+            letters, receipts, paperwork, copies of forms, dates of phone calls. 
 
     - image: /img/bottom-right.jpg
       text: >+
