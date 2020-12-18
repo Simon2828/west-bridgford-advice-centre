@@ -34,18 +34,11 @@ HMRC tax: <https://www.gov.uk/contact-hmrc>
 
 CAB: <https://www.citizensadvice.org.uk/> have downloadable leaflets on the following subjects:
 
-Benefits
-
-Work
-
-Debt and money
-
-Consumer
-
-Family
-
-Housing
-
-Law and courts
-
-Immigration
+•	Benefits
+•	Work
+•	Debt and money
+•	Consumer
+•	Family
+•	Housing
+•	Law and courts
+•	Immigration
