@@ -32,6 +32,9 @@ intro:
         FUNDING
 
         The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre gratefully acknowledges the support of Rothera Sharp in providing legal advice, and St. Giles Church in providing accommodation and office support.
+
+
+        The Advice Centre is a member of Advice UK, a registered charity supporting the UK's larges network of independent advice services.
     - image: /img/bottom-left.jpg
       text: >+
         CONFIDENTIALITY AND DATA PROTECTION POLICY
@@ -49,23 +52,13 @@ intro:
 
         Our documents and records are held in accordance with the Data protection Act 1998 and the General Data Protection Regulation of 2018.
   heading: Organisation
-  description: >
-    The West Bridgford Advice Centre has provided a valuable and accessible
-    source of support for local people through its Wednesday morning ‘open door’
-    service since 1992 and is run by volunteers in accordance with its
-    Constitution.
-
-
-    The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
+  description: The West Bridgford Advice Centre has provided a valuable and
+    accessible source of support for local people through its Wednesday morning
+    ‘open door’ service since 1992 and is run by volunteers in accordance with
+    its Constitution.
 main:
-  heading: History and testimonials
-  description: >
-    The West Bridgford Advice Centre has provided a valuable and accessible
-    source of support for local people through its Wednesday morning ‘open door’
-    service since 1980.
-
-
-    The Advice Centre is a member of Advice UK, a registered charity supporting the UK’s largest network of independent advice services.
+  heading: Testimonials
+  description: "Feedback from some of our clients:"
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/top-right.jpg
