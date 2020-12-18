@@ -26,7 +26,9 @@ Attendance Allowance: <https://www.gov.uk/attendance-allowance>
 
 Pension Credit: <https://www.gov.uk/pension-credit>
 
-Concessionary travel passes / Blue Badges: [](https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme)<https://www.nottinghamshire.gov.uk/transport/public-transport/concessionary-travel>
+Concessionary travel passes: [](https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme)<https://www.nottinghamshire.gov.uk/transport/public-transport/concessionary-travel>
+
+Blue Badge Scheme: [](https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme)<https://www.nottinghamshire.gov.uk/transport/parking/blue-badge-scheme>
 
 Turn2us Benefit Calculator: <https://benefits-calculator.turn2us.org.uk/AboutYou>
 
