@@ -77,5 +77,5 @@ testimonials:
     quote: I just want to say how brilliant the service has been. I cannot fault the
       fantastic helpful and informative volunteers that have helped me. Without
       their help I would not be able to complete the forms.
-full_image: /img/vase.jpg
+full_image: /img/wbac-logo.png
 ---
