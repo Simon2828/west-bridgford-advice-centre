@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Map from '../components/Map'
 
 export const IndexPageTemplate = ({
   image,
@@ -85,6 +86,7 @@ export const IndexPageTemplate = ({
                       <p>{description}</p>
                     </div>
                   </div>
+                  <Map />
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'West Bridgford Advice Centre',
     description:
-      'This repo contains an charity website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'This repo contains a charity website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -63,6 +63,20 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
+      },
+    },
+    {
+      resolve: `@ccalamos/gatsby-source-googlemaps-static`,
+      options: {
+        key: `AIzaSyB9H7kWc_ZWxdxb2QlSOux5lUYwAyoCimA`,
+        center: `52.93231688328308, -1.1294191148327146`,
+        zoom: `18`,
+        size: `640x640`,
+        markers: [
+          {
+            location: `52.93231688328308, -1.1294191148327146`
+          }
+        ]
       },
     },
     {
