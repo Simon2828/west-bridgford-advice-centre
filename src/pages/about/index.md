@@ -66,9 +66,6 @@ main:
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/top-left.jpg
-  image3:
-    alt: WBAC logo
-    image: /img/wbac-logo.png
 testimonials:
   - author: Excellent service. Very friendly and helpful.
     quote: Gave very useful information and contact numbers. A light at the end of

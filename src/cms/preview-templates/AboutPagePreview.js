@@ -32,7 +32,6 @@ const AboutPagePreview = ({ entry, getAsset }) => {
           alt: entry.getIn(['data', 'main', 'image3', 'alt']),
         },
       }}
-      fullImage={entry.getIn(['data', 'full_image'])}
       testimonials={testimonials}
     />
   )
