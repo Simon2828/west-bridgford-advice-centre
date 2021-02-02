@@ -12,21 +12,7 @@ description: "The Centre's aim is: To provide quality information and other
 intro:
   blurbs:
     - image: /img/top-left.jpg
-      text: >
-        MANAGEMENT:
-
-
-        the Centre is run by volunteers in accordance with its Constitution. The Management Committee has four members who fulfil the following roles: · Administrator · Secretary · Treasurer
-
-        · Resources Manager.
-
-
-        The Committee meets four times per year. There is an Annual General Meeting to which all volunteer members are invited and where an annual financial statement is presented for approval.
-
-
-        The functions of the Management Committee are to:
-
-        · Ensure the smooth running of the Centre · Appoint replacement or additional volunteers · Ensure that finances are correctly administered · Identify and provide for the training needs of volunteers · Ensure the provision of accurate and up to date information/advice · Ensure that the Centre’s policies are carried out.
+      text: "MANAGEMENT: the Centre is run by volunteers."
     - image: /img/top-right.jpg
       text: >
         FUNDING:
@@ -36,13 +22,8 @@ intro:
 
         The Advice Centre is a member of Advice UK, a registered charity supporting the UK's largest network of independent advice services.
     - image: /img/bottom-left.jpg
-      text: >+
-        CONFIDENTIALITY:
-
-
-        The Centre is committed to providing a confidential service. No information is given directly or indirectly to a third party without the service user’s prior consent. The Centre will breach confidentiality only where there is a risk to life or in instances where the Centre would break the law by maintaining confidentiality. The Management Committee is consulted in such cases.
-
-
+      text: "CONFIDENTIALITY: The Centre is committed to providing a confidential
+        service."
     - image: /img/bottom-right.jpg
       text: >
         DATA PROTECTION POLICY:  The Centre’s Data Privacy Statement in full is
@@ -66,6 +47,9 @@ main:
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/top-left.jpg
+  image3:
+    image: /img/top-right.jpg
+    alt: WBAC
 testimonials:
   - author: Excellent service. Very friendly and helpful.
     quote: Gave very useful information and contact numbers. A light at the end of
