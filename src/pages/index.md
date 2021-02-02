@@ -22,16 +22,13 @@ mainpitch:
     •	Health and disability.
     We also signpost for
     •	Immigration issues
-    •	Debt
-    •	Financial advice  
+    •	Debt 
 
 description: "The Church Hall is centrally situated on Stratford Road
   immediately adjoining the rear of St. Giles Church and just 200 metres from
   the Co-op store, Bridgford Road.  There is restricted parking on Stratford
   Road so please check signs before parking.  The West Bridgford Advice Centre
-  is run by volunteers.  Our services are free of charge.  We manage to sort out
-  most of our clients' problems ourselves but if we can't, we know where to send
-  you for the help you need.       "
+  is run by volunteers and our services are free of charge.       "
 intro:
   blurbs:
     - image: /img/top-left.jpg
