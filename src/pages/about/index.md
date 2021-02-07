@@ -12,7 +12,9 @@ description: "The Centre's aim is: To provide quality information and other
 intro:
   blurbs:
     - image: /img/top-left.jpg
-      text: "MANAGEMENT: the Centre is run by volunteers."
+      text: "MANAGEMENT: the Centre is run by volunteers.  WBAC is independent of,
+        although financially supported by, St Giles’ Church and is managed by a
+        group of its volunteers."
     - image: /img/top-right.jpg
       text: >
         FUNDING:
@@ -23,7 +25,8 @@ intro:
         The Advice Centre is a member of Advice UK, a registered charity supporting the UK's largest network of independent advice services.
     - image: /img/bottom-left.jpg
       text: "CONFIDENTIALITY: The Centre is committed to providing a confidential
-        service."
+        service.  No information is given directly or indirectly to a third
+        party without the service user’s prior consent."
     - image: /img/bottom-right.jpg
       text: >
         DATA PROTECTION POLICY:  The Centre’s Data Privacy Statement in full is
