@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: West Bridgford Advice Centre closed until further notice
-date: 2020-11-05T15:16:44.852Z
-description: We regret that due to the most recent lockdown we have made the
-  decision to close until further notice.
+title: West Bridgford Advice Centre is open!
+date: 2021-05-04T14:26:55.676Z
+description: We are pleased to let you know that the West Bridgford Advice
+  Centre is open for drop-in appointments on Wednesday mornings.
 featuredpost: false
 featuredimage: /img/home-page-header.jpg
 tags:
   - West Bridgford Advice Centre
 ---
-We hope to be back soon.
+We are open from 9.15 a.m.
