@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: West Bridgford Advice Centre  PLEASE NOTE WE ARE CLOSED UNTIL FURTHER NOTICE
+title: "West Bridgford Advice Centre  "
 image: /img/home-page-header.jpg
 heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982
   1475   westbridgfordadvicecentre@gmail.com
