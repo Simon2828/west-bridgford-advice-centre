@@ -34,7 +34,7 @@ Turn2us Benefit Calculator: <https://benefits-calculator.turn2us.org.uk/AboutYou
 
 HMRC tax: <https://www.gov.uk/contact-hmrc>
 
-CAB: <https://www.citizensadvice.org.uk/> have downloadable leaflets on the following subjects:
+CAB: <https://www.citizensadvice.org.uk/> has downloadable leaflets on the following subjects:
 
 •	Benefits
 •	Work
