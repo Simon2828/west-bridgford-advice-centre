@@ -34,7 +34,10 @@ intro:
     - image: /img/top-left.jpg
       text: >+
         
-        We are open for face to face appointments at St Giles Church Hall.  You can also contact us by telephone: 0115 982 1475 (during opening hours or leave a message at other times) or email: westbridgfordadvicecentre@gmail.com 
+        You do not need to make an appointment as we operate a drop-in system, but you will be asked to wait socially distanced if we are busy. 
+
+
+        Please wear a face covering and observe current regulations. 
 
 
 
