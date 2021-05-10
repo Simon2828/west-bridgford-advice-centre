@@ -31,7 +31,7 @@ description: "The Church Hall is centrally situated on Stratford Road
   is run by volunteers and our services are free of charge.       "
 intro:
   blurbs:
-    - image: /img/top-left.jpg
+    - image: /img/view_shadow.jpg
       text: >+
         
         You do not need to make an appointment as we operate a drop-in system, but you will be asked to wait socially distanced if we are busy. 
@@ -41,19 +41,19 @@ intro:
 
 
 
-    - image: /img/top-right.jpg
+    - image: /img/board_road.jpg
       text: >+
         We are operating a Covid Safe environment following current guidelines,
         with social distancing and screens between clients and advisers.
 
 
-    - image: /img/bottom-left.jpg
+    - image: /img/hall_interior.jpg
       text: >+
         When visiting the centre, please try to bring the following:
             all relevant information relating to your query; 
             letters, receipts, paperwork, copies of forms, dates of phone calls. 
 
-    - image: /img/bottom-right.jpg
+    - image: /img/board_gate.jpg
       text: >+
         The safety of our volunteers and clients is very important.  Please do
         not attend the Advice Centre if you are feeling unwell and / or have any
