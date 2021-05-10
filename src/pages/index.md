@@ -42,12 +42,11 @@ intro:
 
 
     - image: /img/top-right.jpg
-      text: >
-        We understand that not everyone wants a face to face appointment.  We
-        can also arrange for an adviser to ring you on a Wednesday
-        morning.   Please telephone: 0115 982 1475 (during opening hours or
-        leave a message at other times) or email:
-        westbridgfordadvicecentre@gmail.com 
+      text: >+
+        We are operating a Covid Safe environment following current guidelines,
+        with social distancing and screens between clients and advisers.
+
+
     - image: /img/bottom-left.jpg
       text: >+
         When visiting the centre, please try to bring the following:
