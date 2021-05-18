@@ -6,6 +6,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import Map from '../components/Map'
+import churchMap from '../../static/img/churchmappinglab.jpg'
 
 export const IndexPageTemplate = ({
   image,
@@ -86,7 +87,7 @@ export const IndexPageTemplate = ({
                       <p>{description}</p>
                     </div>
                   </div>
-                  <Map />
+                  {churchMap ? <img src={churchMap} alt="West Bridgford Advice Centre map"/>: <Map />}
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
