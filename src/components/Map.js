@@ -3,25 +3,25 @@ import { graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image';
 
 const Map = () => {
-  const { staticMap } = useStaticQuery(graphql`
-  query StaticMapQuery {
-    staticMap {
-        childFile {
-            childImageSharp {
-                fluid {
-                    # or fixed
-                    ...GatsbyImageSharpFluid
-                }
-            }
-        }
-    }
-}
-    `
-  )
+//   const { staticMap } = useStaticQuery(graphql`
+//   query StaticMapQuery {
+//     staticMap {
+//         childFile {
+//             childImageSharp {
+//                 fluid {
+//                     # or fixed
+//                     ...GatsbyImageSharpFluid
+//                 }
+//             }
+//         }
+//     }
+// }
+//     `
+//   )
   return (
     <div>
-      <Img fluid={staticMap.childFile.childImageSharp.fluid}>
-      </Img>
+      {/* <Img fluid={staticMap.childFile.childImageSharp.fluid}>
+      </Img> */}
     </div>
   )
 

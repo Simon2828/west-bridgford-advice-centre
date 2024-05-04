@@ -65,20 +65,20 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    {
-      resolve: `@ccalamos/gatsby-source-googlemaps-static`,
-      options: {
-        key: `AIzaSyB9H7kWc_ZWxdxb2QlSOux5lUYwAyoCimA`,
-        center: `52.93231688328308, -1.1294191148327146`,
-        zoom: `18`,
-        size: `640x640`,
-        markers: [
-          {
-            location: `52.93231688328308, -1.1294191148327146`
-          }
-        ]
-      },
-    },
+    // {
+    //   resolve: `@ccalamos/gatsby-source-googlemaps-static`,
+    //   options: {
+    //     key: ``,
+    //     center: `52.93231688328308, -1.1294191148327146`,
+    //     zoom: `18`,
+    //     size: `640x640`,
+    //     markers: [
+    //       {
+    //         location: `52.93231688328308, -1.1294191148327146`
+    //       }
+    //     ]
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
