@@ -61,5 +61,8 @@ testimonials:
     quote: I just want to say how brilliant the service has been. I cannot fault the
       fantastic helpful and informative volunteers that have helped me. Without
       their help I would not be able to complete the forms.
+  - quote: "The advice centre is such a valuable resource.  I feel lucky that I have
+      been able to have such wonderful support.  "
+    author: This is such an important service for people in the community.
 full_image: /img/vase.jpg
 ---
