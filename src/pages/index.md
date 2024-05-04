@@ -34,17 +34,16 @@ intro:
     - image: /img/view_shadow.jpg
       text: >+
         
-        You do not need to make an appointment as we operate a drop-in system, but you will be asked to wait socially distanced if we are busy. 
-
-
-        Please wear a face covering and observe current regulations. 
+        You do not need to make an appointment as we operate a drop-in session but you may be asked to wait if we are very busy. 
 
 
 
     - image: /img/board_road.jpg
       text: >+
-        We are operating a Covid Safe environment following current guidelines,
-        with social distancing and screens between clients and advisers.
+        Upon arrival you will be greeted by our receptionist who will take your
+        details and a brief summary of your query before passing you on to an
+        adviser as soon as possible.  We make every effort to make sure that
+        clients are seen in the order in which they arrive at the centre.
 
 
     - image: /img/hall_interior.jpg
@@ -56,9 +55,7 @@ intro:
     - image: /img/board_gate.jpg
       text: >+
         The safety of our volunteers and clients is very important.  Please do
-        not attend the Advice Centre if you are feeling unwell and / or have any
-        of the following symptoms: a high temperature, a new and continuous
-        cough, a loss or change to your sense of smell or taste.
+        not attend the Advice Centre if you are feeling unwell.
 
   heading: What we offer
   description: |
