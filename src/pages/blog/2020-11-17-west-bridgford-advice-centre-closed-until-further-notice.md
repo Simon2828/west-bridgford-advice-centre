@@ -9,4 +9,4 @@ featuredimage: /img/home-page-header.jpg
 tags:
   - West Bridgford Advice Centre
 ---
-We are open on Wednesday mornings from 9.30 a.m. until 12.30 p.m.
+We are open on Wednesday mornings from 9.30 a.m. until 12.00 p.m.
