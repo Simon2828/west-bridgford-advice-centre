@@ -2,7 +2,7 @@
 templateKey: index-page
 title: "West Bridgford Advice Centre  "
 image: /img/home-page-header.jpg
-heading: Open every Wednesday 9.30 a.m. - 12.30 p.m.  Telephone 0115 982
+heading: Open every Wednesday 9.30 a.m. - 12.00 p.m.  Telephone 0115 982
   1475   westbridgfordadvicecentre@gmail.com
 subheading: Find us at St.Giles Church Hall, Stratford Road, West Bridgford,
   Nottingham NG2 6AZ.  There is restricted parking on Stratford Road so please
