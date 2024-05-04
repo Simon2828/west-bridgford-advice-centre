@@ -19,7 +19,7 @@ intro:
       text: >
         FUNDING:
 
-        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre gratefully acknowledges the support of Rothera Sharp in providing legal advice, and St. Giles Church in providing accommodation and office support.
+        The West Bridgford Advice Centre is partly funded by Nottinghamshire County Council and also receives occasional charitable donations.  The Centre gratefully acknowledges the support of Rothera Bray in providing legal advice, and St. Giles Church in providing accommodation and office support.
 
 
         The Advice Centre is a member of Advice UK, a registered charity supporting the UK's largest network of independent advice services.
